@@ -1,8 +1,14 @@
 # Changelog
 
-Versions use date-based numbering: `YYYY.MM.DD`.
+Versions use date-based numbering: `YYYY.MM.DD` (CalVer). Releases are tagged
+`vYYYY.MM.DD`.
 
 ## 2026.10.08
+
+### Changed
+- Switched from semantic versioning to CalVer. The earlier `v1.0.0` tag and
+  GitHub release ("Initial tagged release of Matlab2TeXs") were removed;
+  their contents are included in `v2026.10.08`.
 
 ### Added
 - `Contents.m` carrying the version (shown by `ver`/`help` in MATLAB and Octave).
