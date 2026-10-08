@@ -34,6 +34,11 @@ With no output argument it prints; otherwise it returns the string.
 cd tests; addpath('..'); test_poly2tex; test_matrix2tex
 ```
 
+## Version
+
+Date-based (`YYYY.MM.DD`); current version is in `Contents.m`, history in
+[CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 MIT; see [LICENSE](LICENSE).

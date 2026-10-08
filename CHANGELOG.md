@@ -1,8 +1,11 @@
 # Changelog
 
-## Unreleased
+Versions use date-based numbering: `YYYY.MM.DD`.
+
+## 2026.10.08
 
 ### Added
+- `Contents.m` carrying the version (shown by `ver`/`help` in MATLAB and Octave).
 - `LICENSE` (MIT).
 - `tests/test_poly2tex.m` and `tests/test_matrix2tex.m`.
 - `matrix2tex`: optional third argument selecting the matrix environment
